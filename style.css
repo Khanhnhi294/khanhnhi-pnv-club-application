@@ -1,0 +1,53 @@
+/* =============index============= */
+.form{
+    width: 500px;
+    height: 400px;
+    border: 3px dashed orange;
+    margin-left: 400px;
+    margin-top: 100px;  
+    
+}
+label.lable{
+    text-align: right;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.input{
+    margin-left: 160px;
+}
+.skill{
+    display: flex;
+}
+.submit{
+    width: 80%;
+    height: 20px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    margin-left: 50px;
+
+}
+#lableName{
+    text-align: right;
+    margin-left: 50px;
+}
+
+/* =============result============= */
+.img {
+    width: 200px;
+    height: auto; 
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.result{
+    width: 500px;
+    height: 400px;
+    border: 3px dashed orange;
+    margin-left: 400px;
+    margin-top: 100px; 
+    text-align: center;
+}
+
+
